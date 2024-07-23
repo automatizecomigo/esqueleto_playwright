@@ -1,4 +1,4 @@
-# Created by rafael.pantoja at 16/07/2024
+# Created by rafael.pantoja at 23/07/2024
 Feature: Fazer login no saucedemo, exemplo de teste
 
   Scenario: Fazer login com credenciais validas
